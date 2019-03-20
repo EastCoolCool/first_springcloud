@@ -10,3 +10,4 @@ spring:
     name: client
 server:
   port: 1060
+profiles: dev
