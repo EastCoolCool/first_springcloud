@@ -10,7 +10,7 @@ spring:
     name: client
 server:
   port: 1060
-profiles: dev22222222222222222
+profiles: dev111111111111
 auth:
   name: eastcool·Lee
   age: 18
