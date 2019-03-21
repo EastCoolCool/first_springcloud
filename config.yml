@@ -13,4 +13,5 @@ eureka:
        default-profile: dev
 server:
   port: 1050
+profiles: dev11111
 
