@@ -7,4 +7,4 @@ eureka:
       defaultZone: http://localhost:8671/eureka/
 server:
   port: 1050
-profiles: master
+
