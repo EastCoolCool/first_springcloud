@@ -1,10 +1,16 @@
 spring:
   application:
     name: config
+  rabbitmq:
+    addresses: 192.168.50.205:5671
+    username: admin
+    password: admin
+    virtual-host: /
 eureka:
   client:
     service-url:
       defaultZone: http://localhost:8671/eureka/
+       default-profile: dev
 server:
   port: 1050
 
